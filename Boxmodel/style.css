@@ -24,7 +24,29 @@ outline: 1px yellow solid}
 
 }
 .logocont {
+overflow: hidden;
 max-width: 920px;
 margin-left:auto;
 margin-right:auto;
+overflow: hidden;
+  }
+
+  .topnav {
+    width: 920px;
+    height:45px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: rgba(39, 18, 0, 0.5);
+
+  }
+
+  .topnav li {
+    display: block;
+    float: left;
+    font-family: sans-serif;
+    padding: 11px 20px;
+    
+
+
+
   }
